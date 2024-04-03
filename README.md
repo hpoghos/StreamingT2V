@@ -62,7 +62,7 @@ conda install conda-forge::ffmpeg
 ### 1200 FRAMES @ 2 MINUTES
 <table class="center">
 <tr>
-  <td><video src="https://streamingt2v.github.io/static/videos/1200/0002_0000_Explore_the_coral_gardens_of_the_sea__wi.mp4" /></td>
+  <td>[![]](https://streamingt2v.github.io/static/videos/1200/0002_0000_Explore_the_coral_gardens_of_the_sea__wi.mp4)</td>
   <td>Placeholder</td>
   <td>Placeholder</td>              
   <td>Placeholder</td>
