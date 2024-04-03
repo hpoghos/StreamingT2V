@@ -79,7 +79,7 @@ python inference.py --image="path-to-image"
 
 ``` shell
 cd StreamingT2V/
-python inference.py --video="path-to-video"
+python inference.py --prompt="your prompt" --video="path-to-video"
 ```
 
 ---
