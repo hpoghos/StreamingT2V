@@ -55,14 +55,16 @@ conda install conda-forge::ffmpeg
 ---  
 
 
-
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 ## Results
 
 ### 1200 FRAMES @ 2 MINUTES
 <table class="center">
 <tr>
-  <td>[![]](https://streamingt2v.github.io/static/videos/1200/0002_0000_Explore_the_coral_gardens_of_the_sea__wi.mp4)</td>
+  <td></td>
   <td>Placeholder</td>
   <td>Placeholder</td>              
   <td>Placeholder</td>
