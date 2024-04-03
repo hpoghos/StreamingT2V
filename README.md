@@ -66,23 +66,14 @@ conda install conda-forge::ffmpeg
 cd StreamingT2V/
 python inference.py --prompt="A cat running on the street"
 ```
-Use `python inference.py --help` for more options.
+To use other base models add the `--base_model=AnimateDiff` argument. Use `python inference.py --help` for more options.
 
 ### For Image-to-Video
 
 ``` shell
 cd StreamingT2V/
-python inference.py --image="path-to-image"
+python inference.py --image=../examples/underwater.png --base_model=SVD
 ```
-
-### For Video-to-Video
-
-``` shell
-cd StreamingT2V/
-python inference.py --prompt="your prompt" --video="path-to-video"
-```
-
----
 
 
 
