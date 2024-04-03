@@ -28,7 +28,7 @@ Zhangyang Wang, Shant Navasardyan, Humphrey Shi
 ## News
 
 * [03/21/2024] Paper [StreamingT2V](https://arxiv.org/abs/2403.14773) released!
-* [04/03/2024] Code and model released!
+* [04/03/2024] Code and [model](https://huggingface.co/PAIR/StreamingT2V) released!
 
 
 ## Setup
@@ -107,3 +107,4 @@ If you use our work in your research, please cite our publication:
   year={2024}
 }
 ```
+
