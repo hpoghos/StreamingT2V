@@ -55,16 +55,13 @@ conda install conda-forge::ffmpeg
 ---  
 
 
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
-
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 ## Results
 
 ### 1200 FRAMES @ 2 MINUTES
 <table class="center">
 <tr>
-  <td>[![]](https://www.youtube.com/watch?v=LEENEFaVUzU)</td>
+  <td>Placeholder</td>
   <td>Placeholder</td>
   <td>Placeholder</td>              
   <td>Placeholder</td>
