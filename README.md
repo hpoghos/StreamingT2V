@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ``` shell
 conda install conda-forge::ffmpeg
 ```
-4. Download the weights from HF and put them into the `t2v_enhanced/checkpoints` path.
+4. Download the weights from [HF](https://huggingface.co/PAIR/StreamingT2V) and put them into the `t2v_enhanced/checkpoints` directory.
 
 ---  
 
@@ -72,14 +72,15 @@ Use `python inference.py --help` for more options.
 
 ``` shell
 cd StreamingT2V/
-python inference.py --prompt="A cat running on the street"
+python inference.py --image="path-to-image"
 ```
 
 ### For Video-to-Video
 
 ``` shell
 cd StreamingT2V/
-python inference.py --prompt="A cat running on the street"
+python inference.py --video="path-to-video"
+```
 ```
 
 ---
@@ -107,3 +108,4 @@ If you use our work in your research, please cite our publication:
   year={2024}
 }
 ```
+
