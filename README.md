@@ -81,7 +81,6 @@ python inference.py --image="path-to-image"
 cd StreamingT2V/
 python inference.py --video="path-to-video"
 ```
-```
 
 ---
 
@@ -108,4 +107,3 @@ If you use our work in your research, please cite our publication:
   year={2024}
 }
 ```
-
